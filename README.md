@@ -7,19 +7,12 @@ The primary goal is to provide a hands-on example of orchestration, data validat
 
 ## Architecture & Components
 
-* 
 **Orchestrator:** Apache Airflow (running in Docker).
 
-
-* 
 **Database:** PostgreSQL (handles Airflow metadata).
 
-
-* 
 **Execution Mode:** LocalExecutor.
 
-
-* 
 **Storage:** Local filesystem (mounted volumes) simulating the Data Lake layers.
 
 
